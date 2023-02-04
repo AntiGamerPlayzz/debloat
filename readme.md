@@ -1,4 +1,4 @@
-# debloat
+# Disable Bloatware
 
 debloat fire tablet 
 
