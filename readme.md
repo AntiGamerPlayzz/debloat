@@ -1,6 +1,6 @@
 # Disable Bloatware
 
-debloat fire tablet 
+all adb commands to debloat fire tablet 
 
 #  Device Dashboard
 
